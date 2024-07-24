@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.block{
+    padding: 5px;
+    border-radius: 6px;
+    margin-left: 40vw;
+    margin-top: 10vh;
+}
+
+input{
+    border-radius: 6px;
+    padding: 8px;
+    border: 1px solid black;
+    font-size: 15px;
+    width: 50%;
+}
+label{
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+    margin-top: 18vh;
+}
